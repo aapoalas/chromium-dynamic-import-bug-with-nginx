@@ -1,0 +1,2 @@
+const data =
+  'nne"noc/ ao,;), \n"n=ntitfs  nfhn=tmupLctarnat i"ehfg\nl,earggo ft pCpca0i"fmrmm0t_cH."aaoHom\nn net\ntt:H tsn{Fa=g oor/cnHnult im= nerertndcmens uypng)utnnatunn apt,aon"neoCPigtVCCpctnci"ro neonoogpnggitpla}ooteto nm/m)i=rrtmp)doauCtuatmtucnnonipaenga t/yHiglVotH"egtlgim{tni= nrnpHm -\niocn\nar=nnt;te{I"  egp" )ioa i op uuac /e}mntagrcii nntmti\n,rC;gero {oL -;eo\nnuse\ncr,cita/p:/ ) m i r"p{mo oitoinVtmi\no -iopg;groourt0naIon ornorm0rpnu(me rlx=n  e,,ft\nitoe g}ppracn\nnoh tgeip , on';

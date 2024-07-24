@@ -1,0 +1,2 @@
+const data =
+  'fr&s    reap"""nto"/ |or"&ttmpsdnsl( ttip/tspmdiScfet(nb=aoetn=[p.e/apSo Uc c(aiiu y)Stoltts.{eeto-}gf Spp  ""elatru 1eesieafsc/;epoterttfs\nA)e\nC tcpast=0tnsrtefengac_)/p[tyo nP(fSiU-emmceais&t.dsS1t;ecp{ tee ieae/umle)n( ooSr&etsubSaso|i;n le&(sa nasn" taspa-/ran" `nott eD"ptpft0fau)imca-neebe"le(i.crp/;por fpeccuSsnsto&ecreiI{)trbAuS)uru(tru"se(\niu |t)io\ne"ueorur|)ieu stip\ntt="a  t"pecpsetnm  uS  r(anoeientp u}set ft etca\nd/oIdeut]:o\n.Sgrsrnrtttu.o pranp os\ns.frir{l e yo ysos"i`seasu/el)oeonameelopc (';

@@ -1,0 +1,2 @@
+#! /bin/bash
+nginx -p $PWD/nginx -c ./nginx.conf -e ./logs/error.log
