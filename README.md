@@ -16,6 +16,7 @@ less often, taking up to some minutes to error out.
 
 1. Checkout this repository.
 1. Get [Deno](https://deno.com/) or [Node.js](https://nodejs.org/).
+1. Get [nginx](https://nginx.org/): My version is 1.20.1.
 1. Replace `./ssl/server.crt` and `./ssl/server.key` with an SSL certificate and
    key of your choice. For the default setup these need to work in localhost.
 1. Run
