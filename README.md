@@ -81,6 +81,10 @@ No other workarounds are known at this time.
    the issue when behind the reverse proxy.
 1. Changing `keepalive_timeout` in `nginx.conf`: The bug reproduces at
    `keepalive_timeout 1` and `keepalive_timeout 1000`.
+1. Changing `keepalive_requests` in `nginx.conf`: The bug reproduces at
+   `keepalive requests 250` and `keepalive_requests 10000`.
+   - Note: It seems that `keepalive_requests 10000` is however capable of making
+     the bug very unlikely to reproduce.
 
 ## Error data
 
