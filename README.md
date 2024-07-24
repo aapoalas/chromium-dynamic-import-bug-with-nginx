@@ -6,7 +6,7 @@ bug does not reproduce if the nginx reverse proxy is removed from the equation,
 not similarly it never reproduces on Firefox. So this is a combination of nginx
 and Chromium together, not just nginx.
 
-The curx of the bug is that sometimes when loading a fairly large number of
+The crux of the bug is that sometimes when loading a fairly large number of
 interconnected ECMAScript modules, the HTTPS request for some of the down-stream
 modules will fail with a `net::ERR_FAILED`. This happens fairly regularly,
 between once every 4 to 10 page loads in a real project. This reproduction fails
