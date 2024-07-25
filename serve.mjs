@@ -177,7 +177,7 @@ const handler = (req, res) => {
     );
   }
 
-  res.statusCode = 404;
+  res.statusCode = 200;
   res.write(
     `<!DOCTYPE html>
       <head>
